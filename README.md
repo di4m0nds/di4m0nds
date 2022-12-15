@@ -1,4 +1,13 @@
-- 👋 Hi, I’m @di4m0nds
+### 👋 Hi, I’m Silvestri, Javier A.
+<!--- ![counter](https://komarev.com/ghpvc/?username=di4m0nds&color=orange&style=for-the-badge) --->
+
+<div align="center">
+
+[![@di4m0nds's GitHub stats](https://github-readme-stats.vercel.app/api?username=di4m0nds&count_private=true&show_icons=true&theme=radical)](https://github.com/di4m0nds/github-readme-stats)
+
+<!--- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=di4m0nds&theme=radical)](https://git.io/streak-stats) --->
+
+</div>
 
 [![@di4m0nds's Holopin board](https://holopin.io/api/user/board?user=di4m0nds)](https://holopin.io/@di4m0nds)
 
