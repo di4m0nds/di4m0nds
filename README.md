@@ -1,5 +1,13 @@
 ### 👋 Hi, I’m Silvestri, Javier A.
+
 <!--- ![counter](https://komarev.com/ghpvc/?username=di4m0nds&color=orange&style=for-the-badge) --->
+
+<br>
+<p>
+Hi there! I am a passioned for science and technology. I am constantly learning and exploring new technologies to improve my skills and stay up-to-date in the industry. On my Github profile, you can find a collection of my personal projects and contributions to open source projects. Thank you for stopping by!
+</p>
+<br>
+<br>
 
 <div align="center">
 
@@ -9,9 +17,10 @@
 
 </div>
 
+<!---
+
 [![@di4m0nds's Holopin board](https://holopin.io/api/user/board?user=di4m0nds)](https://holopin.io/@di4m0nds)
 
-<!---
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
