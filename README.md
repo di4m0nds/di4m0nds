@@ -3,9 +3,11 @@
 <!--- ![counter](https://komarev.com/ghpvc/?username=di4m0nds&color=orange&style=for-the-badge) --->
 
 <br>
-<p>
+
+<dl><dd><dl><dd><dl><dd><p style="margin:0 10%;">
 Hi there! I am a passioned for science and technology. I am constantly learning and exploring new technologies to improve my skills and stay up-to-date in the industry. On my Github profile, you can find a collection of my personal projects and contributions to open source projects. Thank you for stopping by!
-</p>
+</p></dd></dl></dd></dl></dd></dl>
+
 <br>
 <br>
 
