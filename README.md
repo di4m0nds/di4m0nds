@@ -5,8 +5,12 @@
 <br>
 
 <dl><dd><dl><dd><p style="margin:0 10%;">
-Hi there! I am a passioned for science and technology. I am constantly learning and exploring new technologies to improve my skills and stay up-to-date in the industry. On my Github profile, you can find a collection of my personal projects and contributions to open source projects. Thank you for stopping by!
-</p></dd></dl></dd></dl>
+Hi there! I am a software developer currently working at a consulting company. I hold an associate degree in Web Development from Universidad Nacional de San Luis, where I honed my skills and gained a strong foundation in software development. My passion for developing innovative solutions that meet the needs of clients and businesses led me to pursue a career in this field. I have a keen interest in staying up-to-date with the latest technologies and advancements in software development. In my free time, I love to delve into the world of science and explore new technologies. I believe that continuous learning is crucial to growth and success, both professionally and personally.
+</p>
+  <p style="margin:0 10%;">
+On my Github profile, you can find a collection of my personal projects and contributions to open source projects. Thank you for stopping by!
+</p>
+  </dd></dl></dd></dl>
 
 <br>
 <br>
