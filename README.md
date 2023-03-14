@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Silvestri, Javier A.
+### 👋 Hi, I’m Silvestri Javier
 
 <!--- ![counter](https://komarev.com/ghpvc/?username=di4m0nds&color=orange&style=for-the-badge) --->
 
