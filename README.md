@@ -1,9 +1,9 @@
-### 👋 Hi, I’m Silvestri Javier
+### 👋 Hi
 
 <!--- ![counter](https://komarev.com/ghpvc/?username=di4m0nds&color=orange&style=for-the-badge) --->
 
 <br>
-
+<!---
 <dl><dd><dl><dd><p style="margin:0 10%;">
 Hi there! I am a software developer currently working at a consulting company. I hold an associate degree in Web Development from Universidad Nacional de San Luis, where I honed my skills and gained a strong foundation in software development. My passion for developing innovative solutions that meet the needs of clients and businesses led me to pursue a career in this field. I have a keen interest in staying up-to-date with the latest technologies and advancements in software development. In my free time, I love to delve into the world of science and explore new technologies. I believe that continuous learning is crucial to growth and success, both professionally and personally.
 </p>
@@ -14,7 +14,7 @@ On my Github profile, you can find a collection of my personal projects and cont
 
 <br>
 <br>
-
+--->
 <div align="center">
 
 [![@di4m0nds's GitHub stats](https://github-readme-stats.vercel.app/api?username=di4m0nds&count_private=true&show_icons=true&theme=radical)](https://github.com/di4m0nds/github-readme-stats)
