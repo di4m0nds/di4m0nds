@@ -10,7 +10,7 @@
 
 <div align="center" markdown="1">
   
-  [![Github Years Old](https://badges.pufler.dev/years/di4m0nds?style=flat-square&logo=github&logoWidth=20&logoColor=white&labelColor=555555&color=blue&label=Years%20Old%20%20.&cacheSeconds=3600)](https://github.com/di4m0nds)
+  [![Github Years Old](https://badges.pufler.dev/years/di4m0nds?style=flat-square&logo=github&logoWidth=20&logoColor=white&labelColor=555555&color=blue&label=Years%20Old%20%20.&cacheSeconds=4600)](https://github.com/di4m0nds)
   [![Github Visits](https://badges.pufler.dev/visits/di4m0nds/di4m0nds?style=flat-square&logo=github&logoWidth=20&logoColor=white&labelColor=555555&color=blue&label=Visitors%20%20%20%20.&cacheSeconds=30)](https://github.com/di4m0nds)
   [![Github Profile Views](https://komarev.com/ghpvc/?username=di4m0nds&label=Profile%20views&color=blue&style=flat-square) ](https://github.com/di4m0nds)
 
@@ -25,6 +25,26 @@
 
 
 - 🔭 I’m currently working on **personal projects**
+
+<div align="center" markdown="2">
+  
+  ## Skills
+    
+  ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+  ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white)
+  ![Astro](https://img.shields.io/badge/-Astro-005577?logo=astro&logoColor=white) 
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+  ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
+  ![Grails](https://img.shields.io/badge/-Grails-3E434A?logo=grails&logoColor=white)
+  ![Groovy](https://img.shields.io/badge/-Groovy-4298B8?logo=apache-groovy&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) 
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+</div>
 
 [![@di4m0nds's Holopin board](https://holopin.io/api/user/board?user=di4m0nds)](https://holopin.io/@di4m0nds)
 
