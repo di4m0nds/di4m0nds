@@ -26,12 +26,14 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-<div align="center" markdown="2">
+<div align="center" markdown="1">
   
   ## Skills
     
   ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
   ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
   ![Astro](https://img.shields.io/badge/-Astro-005577?logo=astro&logoColor=white) 
   ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
