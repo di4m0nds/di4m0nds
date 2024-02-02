@@ -29,7 +29,7 @@
   
   ## Skills
     
-  ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/Javascript-blue?logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
   ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white)
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
