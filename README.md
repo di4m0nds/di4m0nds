@@ -36,7 +36,7 @@
   ![Astro](https://img.shields.io/badge/-Astro-005577?logo=astro&logoColor=white) 
   ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=nodejs&logoColor=white) 
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white) 
   ![Grails](https://img.shields.io/badge/-Grails-3E434A?logo=grails&logoColor=white)
   ![Groovy](https://img.shields.io/badge/-Groovy-4298B8?logo=apache-groovy&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
