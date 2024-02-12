@@ -42,9 +42,9 @@
 
 </div>
 
-<div align="center" markdown="1">
+<div>
   
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=di4m0nds&theme=dracula&column=4&margin-w=15&margin-h=10&no-bg=false&no-frame=false)    
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=di4m0nds&theme=dracula&margin-w=15&margin-h=10&no-bg=false&no-frame=false)    
   <!-- ![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di4m0nds&theme=dracula&layout=compact&count_private=true&langs_count=10&card_width=446&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en) -->  
 
 </div>
