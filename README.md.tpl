@@ -18,9 +18,9 @@
 
 <div align="start" markdown="1">
 
-  ## My Blog
+  ## My Blog | [page](https://javiersilvestri.vercel.app/posts)
 
-  Welcome to my blog! Here are some of my latest posts:
+  > Here are some of my latest posts:
 
   %{{latest_articles}}%
 
