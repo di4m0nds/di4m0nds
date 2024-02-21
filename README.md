@@ -16,6 +16,34 @@
     
 </div>
 
+<div align="start" markdown="1">
+
+  ## My Blog
+
+  Welcome to my blog! Here are some of my latest posts:
+
+  
+  - [Software Testing Fundamentals](https://javiersilvestri.vercel.app/posts/software_testing_fundamentals/)
+
+    ► Published on: August 30, 2023
+    - In this article, we will delve into the fundamental concepts of software testing. We will discuss the critical importance of thorough testing, walk through the various stages encompassing the software testing process, and emphasize how software testing significantly influences the overall quality of the end product. Whether you are a software developer, a dedicated tester, or an inquisitive reader, this article will provide valuable insights into the dynamic realm of software testing.
+ ---
+    
+  - [Project Management Fundamentals](https://javiersilvestri.vercel.app/posts/project_management_fundamentals/)
+
+    ► Published on: September 27, 2023
+    - Explore the world of Project Management. Discover the basics, project cycles, cost control, and estimation methods. Whether you're a pro or a beginner, this article will guide you through the essentials of successful project management.
+ ---
+    
+  - [Engineering Management Basis](https://javiersilvestri.vercel.app/posts/engineering_management_fundamentals/)
+
+    ► Published on: October 12, 2023
+    - In this enlightening post, we delve deep into the world of Engineering Management, uncovering the foundational principles that drive success in this dynamic field. Gain valuable insights into the strategies and approaches that empower engineering leaders to effectively navigate complex projects, foster innovation, and inspire high-performing teams. Discover the essential building blocks of Engineering Management that are crucial for engineering professionals and aspiring leaders looking to excel in their careers.
+ ---
+    
+
+</div>
+
 ## Tech stack 
   
 ![JavaScript](https://img.shields.io/badge/Javascript-000000?logo=javascript)
