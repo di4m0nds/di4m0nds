@@ -51,17 +51,19 @@ func main() {
   // Prepare markdown content for latest articles
   var latestArticlesMarkdown strings.Builder
   for _, item := range rss.Channel.Items[:NUMBER_OF_ARTICLES] {
-    // latestArticlesMarkdown.WriteString(fmt.Sprintf("- [%s](%s)\n", item.Title, item.Link))
+    dateFormat := fmt.Sprintf("`%s`", formatDate(item.PubDate))
     latestArticlesMarkdown.WriteString(fmt.Sprintf(`
-  - [%s](%s)
+  - ### [%s](%s)
 
-    ► Published on: %s
-    - %s
+  > Published on: %s
+
+  ► %s
+
  ---
     `,
     item.Title,
     item.Link,
-    formatDate(item.PubDate),
+    dateFormat,
     item.Description,
   ))
   }
