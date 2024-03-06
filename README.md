@@ -39,14 +39,6 @@
 
  ---
     
-  - ### [Engineering Management Basis](https://javiersilvestri.vercel.app/posts/engineering_management_fundamentals/)
-
-  > Published on: `October 12, 2023`
-
-  ► Explore Engineering Management principles for success. Learn strategies for project navigation, innovation, and team inspiration, crucial for engineers and aspiring leaders. [In Progress]
-
- ---
-    
 
 </div>
 
