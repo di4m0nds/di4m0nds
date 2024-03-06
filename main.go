@@ -10,7 +10,7 @@ import (
 )
 
 const (
-  NUMBER_OF_ARTICLES = 3
+  NUMBER_OF_ARTICLES = 2
 )
 
 type Item struct {
