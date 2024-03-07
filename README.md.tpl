@@ -18,9 +18,9 @@
 
 <div align="start" markdown="1">
 
-  ## My Blog | [Page](https://javiersilvestri.vercel.app/posts)
+  ## My Latest Posts
 
-  > Here are some of my latest posts
+  > [View All](https://javiersilvestri.vercel.app/posts)
 
   %{{latest_articles}}%
 
@@ -28,13 +28,14 @@
 
 ## Tech stack 
   
-![JavaScript](https://img.shields.io/badge/Javascript-000000?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-000000?logo=javascript)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-005577?logo=astro&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![GoLang](https://img.shields.io/badge/GoLang-00ADD8?logo=go&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white) 
 ![Grails](https://img.shields.io/badge/-Grails-3E434A?logo=grails&logoColor=white)
 ![Groovy](https://img.shields.io/badge/-Groovy-4298B8?logo=apache-groovy&logoColor=white)
@@ -44,23 +45,16 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
-<div>
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=di4m0nds&theme=dracula&margin-w=15&margin-h=10&no-bg=false&no-frame=false)    
-  <!-- ![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di4m0nds&theme=dracula&layout=compact&count_private=true&langs_count=10&card_width=446&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en) -->  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/javslvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javslvt" height="30" width="40" /></a>
+</p>
 
-</div>
-
-<!-- [![@di4m0nds's Holopin board](https://holopin.io/api/user/board?user=di4m0nds)](https://holopin.io/@di4m0nds) -->
-
-<div align="center">
+<div align="left">
   
   [![@di4m0nds's GitHub stats](https://github-readme-stats.vercel.app/api?username=di4m0nds&count_private=true&show_icons=true&theme=radical)](https://github.com/di4m0nds/github-readme-stats)
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=di4m0nds&theme=radical)](https://git.io/streak-stats)
   
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/javslvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javslvt" height="30" width="40" /></a>
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=di4m0nds&theme=dracula&margin-w=15&margin-h=10&no-bg=false&no-frame=false)
