@@ -50,6 +50,7 @@
   <a href="https://twitter.com/javslvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javslvt" height="30" width="40" /></a>
 </p>
 
+<!--
 <div align="left">
   
   [![@di4m0nds's GitHub stats](https://github-readme-stats.vercel.app/api?username=di4m0nds&count_private=true&show_icons=true&theme=radical)](https://github.com/di4m0nds/github-readme-stats)
@@ -58,3 +59,4 @@
 </div>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=di4m0nds&theme=dracula&margin-w=15&margin-h=10&no-bg=false&no-frame=false)
+-->
