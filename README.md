@@ -2,8 +2,8 @@
 
 <div align="" markdown="1">
   
-  <!-- [![Github Years Old](https://badges.pufler.dev/years/di4m0nds?style=flat-square&logo=github&logoWidth=20&logoColor=white&labelColor=555555&color=blue&label=Years%20Old%20%20.&cacheSeconds=4600)](https://github.com/di4m0nds) -->
-  <!-- [![Github Visits](https://badges.pufler.dev/visits/di4m0nds/di4m0nds?style=flat-square&logo=github&logoWidth=20&logoColor=white&labelColor=555555&color=blue&label=Visitors%20%20%20%20.&cacheSeconds=30)](https://github.com/di4m0nds) -->
+  [![Github Years Old](https://badges.pufler.dev/years/di4m0nds?style=flat-square&logo=github&logoWidth=20&logoColor=white&labelColor=555555&color=blue&label=Years%20Old%20%20.&cacheSeconds=4600)](https://github.com/di4m0nds)
+  [![Github Visits](https://badges.pufler.dev/visits/di4m0nds/di4m0nds?style=flat-square&logo=github&logoWidth=20&logoColor=white&labelColor=555555&color=blue&label=Visitors%20%20%20%20.&cacheSeconds=30)](https://github.com/di4m0nds)
   [![Github Profile Views](https://komarev.com/ghpvc/?username=di4m0nds&label=Profile%20views&color=blue&style=flat-square) ](https://github.com/di4m0nds)
 
 </div>
@@ -23,11 +23,11 @@
   > [View All](https://javiersilvestri.vercel.app/posts)
 
   
-  - ### [Software Testing Fundamentals](https://javiersilvestri.vercel.app/posts/software_testing_fundamentals/)
+  - ### [Custom Cursor Animation in Astro: A Deep Dive into Dot, Ring, and Repulsion Physics](https://javiersilvestri.vercel.app/posts/custom-cursor-animation/)
 
-  > Published on: `August 30, 2023`
+  > Published on: `April 14, 2026`
 
-  ► In this article, we explore key software testing concepts, emphasizing its critical role in product quality. We discuss its stages and its impact on developers, testers, and readers, offering valuable insights.
+  ► A technical walkthrough of two zero-dependency Astro components that replace the browser cursor with an animated dot-and-ring pair and drive a spring-physics dot background — covering lerp, RAF loops, magnetic pull, HiDPI canvas, and accessibility.
 
  ---
     
