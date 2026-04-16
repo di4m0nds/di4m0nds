@@ -1,62 +1,75 @@
-<h1 align="start">Hi 👋, I'm Javier</h1>
+<div align="center">
 
-<div align="" markdown="1">
-  
-  [![Github Years Old](https://badges.pufler.dev/years/di4m0nds?style=flat-square&logo=github&logoWidth=20&logoColor=white&labelColor=555555&color=blue&label=Years%20Old%20%20.&cacheSeconds=4600)](https://github.com/di4m0nds)
-  [![Github Visits](https://badges.pufler.dev/visits/di4m0nds/di4m0nds?style=flat-square&logo=github&logoWidth=20&logoColor=white&labelColor=555555&color=blue&label=Visitors%20%20%20%20.&cacheSeconds=30)](https://github.com/di4m0nds)
-  [![Github Profile Views](https://komarev.com/ghpvc/?username=di4m0nds&label=Profile%20views&color=blue&style=flat-square) ](https://github.com/di4m0nds)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Javier%20Silvestri&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20Building%20things%20that%20matter&descAlignY=58&descSize=18" width="100%"/>
 
-</div>
+<br/>
 
-<div align="start" markdown="1">
-  
-  ## About Me
-  
-  Hey there! I practically grew up in a computer store, so you could say tech runs in my veins. Studying web development in uni confirmed it – I'm all about software development. From tinkering with code to building cool projects, I'm living the tech life.
-    
-</div>
-
-<div align="start" markdown="1">
-
-  ## My Latest Posts
-
-  > [View All](https://javiersilvestri.vercel.app/posts)
-
-  %{{latest_articles}}%
+[![Portfolio](https://img.shields.io/badge/_Portfolio-javiersilvestri.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://javiersilvestri.vercel.app)
+&nbsp;
+[![Blog](https://img.shields.io/badge/️_Blog-Read%20All%20Posts-FF6B35?style=for-the-badge&logo=rss&logoColor=white)](https://javiersilvestri.vercel.app/posts)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/@javslvt-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/javslvt)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=di4m0nds&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/di4m0nds)
 
 </div>
 
-## Tech stack 
-  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-000000?logo=javascript)
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/badge/-Astro-005577?logo=astro&logoColor=white) 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-![GoLang](https://img.shields.io/badge/GoLang-00ADD8?logo=go&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white) 
-![Grails](https://img.shields.io/badge/-Grails-3E434A?logo=grails&logoColor=white)
-![Groovy](https://img.shields.io/badge/-Groovy-4298B8?logo=apache-groovy&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/javslvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javslvt" height="30" width="40" /></a>
-</p>
+## About Me
 
-<!--
-<div align="left">
-  
-  [![@di4m0nds's GitHub stats](https://github-readme-stats.vercel.app/api?username=di4m0nds&count_private=true&show_icons=true&theme=radical)](https://github.com/di4m0nds/github-readme-stats)
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=di4m0nds&theme=radical)](https://git.io/streak-stats)
-  
+Grew up in a computer store — tech runs in my veins. I build polished, production-ready software across the full stack, with a strong focus on clean architecture and great developer experience.
+
+- &nbsp; Explore my work → [javiersilvestri.vercel.app](https://javiersilvestri.vercel.app)
+- &nbsp; I write about what I build → [Blog](https://javiersilvestri.vercel.app/posts)
+- &nbsp; Started coding before I could drive
+
+---
+
+## ️Latest from the Blog
+
+> Auto-updated daily · [See all posts →](https://javiersilvestri.vercel.app/posts)
+
+%{{latest_articles}}%
+
+---
+
+## Tech Stack
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-0C1222?style=flat-square&logo=astro&logoColor=FDFDFE)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Backend & Runtime**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apache-groovy&logoColor=white)
+![Grails](https://img.shields.io/badge/Grails-3E434A?style=flat-square&logo=grails&logoColor=white)
+
+**Database & Tooling**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+---
+
+<div align="center">
+
+<sub>This README auto-generates daily via a Go script pulling my blog's RSS feed &nbsp;·&nbsp; <a href="https://github.com/di4m0nds/di4m0nds/blob/main/.github/workflows/update-readme.yml">See the workflow →</a></sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 </div>
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=di4m0nds&theme=dracula&margin-w=15&margin-h=10&no-bg=false&no-frame=false)
--->
